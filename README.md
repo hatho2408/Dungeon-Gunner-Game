@@ -24,7 +24,7 @@ Prepare yourself for an epic journey into the depths of an enchanted dungeon, wh
 * Lootable Chests
 * Flippable tables for cover
 ## Demo
-Link video:
+Click here to watch video demo: [Unity 2D RPG: Dungeon Gunner Demo](https://youtu.be/fTrceaO_gwU)
 ## References:
 * [Unity 2D RPG: Complete Combat System](https://www.udemy.com/course/unity-2d-rpg/)
 * [Create An Action RPG Game In Unity](https://www.udemy.com/course/unityarpg/)
